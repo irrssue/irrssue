@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/37/4a/9c/374a9ce6182b7a8aafd8c6ea6b698ff3.gif)
+![MasterHead](https://s11.gifyu.com/images/84dada0a5dcfd790700df3dd87897aef.gif)
 <h1 align="center">Hi 👋, I'm Austin</h1>
 <h3 align="center">A programmer and soon-to-be full stack web dev</h3>
 
