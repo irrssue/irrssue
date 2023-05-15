@@ -1,3 +1,4 @@
+[![MasterHead](https://i.pinimg.com/originals/84/da/da/84dada0a5dcfd790700df3dd87897aef.gif)]
 <h1 align="center">Hi 👋, I'm Austin</h1>
 <h3 align="center">A programmer and soon-to-be full stack web dev</h3>
 
