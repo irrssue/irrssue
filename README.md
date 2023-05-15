@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **austinrolert@gmail.com**
 
-- ⚡ Fun fact **I play fps games every sometimes**
+- ⚡ Fun fact **I play FPS games every sometimes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
