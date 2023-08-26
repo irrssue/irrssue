@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [my github portfolio](http://irrssue.github.io/)
 
-- 🌱 I’m currently learning **HTML/CSS**
+- 🌱 I’m currently learning **JavaScript / Video Editing**
 
 - 📝 I regularly write articles on [https://irrssue.webflow.io](https://irrssue.webflow.io)
 
