@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Irrssue</h1>
 <h3 align="center">A full-time student and soon-to-be full stack dev</h3>
 
-- 🔭 I’m currently working on [my github portfolio](http://irrssue.github.io/)
+- 🔭 I’m currently working on constructing [my blog website](https://irrssue.webflow.io)
 
 - 🌱 I’m currently learning **JavaScript / Video Editing**
 
