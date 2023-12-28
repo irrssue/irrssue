@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Books, CS, Space**
 
-- 📫 How to reach me **irrssue@gmail.com**
+- 📫 How to reach me **irrssue@duck.com**
 
 - 📄 Know about my experiences [http://linkedin.com/in/irrssue/](http://linkedin.com/in/irrssue/)
 
