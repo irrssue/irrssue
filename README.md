@@ -1,4 +1,4 @@
-![MasterHead](https://i.postimg.cc/6qzDTv6X/temp-Imagebwtui9.avif)
+![MasterHead](https://i.postimg.cc/fLTkG9Wx/IMG-0723-2.jpg)
 <h1 align="center">Hi 👋, I'm Irrssue</h1>
 <h3 align="center">A full-time student and soon-to-be full stack dev</h3>
 
