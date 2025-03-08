@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **irrssue@duck.com**
 
-- 📄 Know about my experiences [http://linkedin.com/in/irrssue/](http://linkedin.com/in/irrssue/)
+- 📄 Know about my experiences [http://linkedin.com/in/irrssue/](http://linkedin.com/in/liamrolert/)
 
 - ⚡ Fun fact **I love playing story games and FPS games**
 
