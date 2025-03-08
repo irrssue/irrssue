@@ -1,7 +1,4 @@
 
-<p align="center">
-  <img src="https://i.postimg.cc/sxbZfwj2/githubcover.gif" alt="MasterHead"/>
-</p>
 <h1 align="center">Hi 👋, I'm Irrssue</h1>
 <h3 align="center">A full-time student and soon-to-be full stack dev</h3>
 
