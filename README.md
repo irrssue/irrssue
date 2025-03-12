@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Irrssue</h1>
-<h3 align="center">A full-time student and soon-to-be full stack dev</h3>
+<h3 align="center">A full-time student and a full stack dev</h3>
 
 - 🔭 I’m currently working on constructing [my blog website](https://irrssue.webflow.io)
 
