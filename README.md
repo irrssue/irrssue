@@ -9,6 +9,6 @@
 
 <h4>Past Projects</h4>
 <ul>
-<li>🎨 <a href="https://github.com/irrssue/rolert.github.io">Personal portfolio</a>: my playground</li>
+<li>🎨 <a href="https://github.com/irrssue/irrssue.github.io">Personal portfolio</a>: my playground</li>
 <li>🌐 <a href="https://github.com/irrssue/Browser-by-Python">Basic Browser</a>: with minimal lines of code possible</li>
 </ul>
